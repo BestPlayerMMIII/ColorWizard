@@ -6,7 +6,7 @@ ColorWizard is an interactive memory game, with a colorful twist, built using Ar
 
 Watch the demo video of ColorWizard on YouTube:
 
-[![ColorWizard Demo](images/view_above.png)](https://www.youtube.com/watch?v=EEwhJd93c-o)
+[![ColorWizard Demo](images/view_above.jpg)](https://www.youtube.com/watch?v=EEwhJd93c-o)
 
 ## Features
 - Four positions with three color options (Red, Green, Blue).
