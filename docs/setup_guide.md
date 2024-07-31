@@ -22,7 +22,7 @@ Below is a wiring diagram to help you assemble the components. Refer to it throu
 
 The following is the convention used for numbering positions. Refer to it throughout the setup process.
 
-![Positions](../images/positions.png)
+![Positions](../images/positions.jpg)
 
 ## Wiring the Components
 
@@ -61,7 +61,7 @@ The following is the convention used for numbering positions. Refer to it throug
 
 1. Download or clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ColorWizard.git
+    git clone https://github.com/BestPlayerMMIII/ColorWizard.git
     ```
 2. Open `ColorWizard.ino` in the Arduino IDE.
 3. Connect your Arduino Uno (or Elegoo MEGA Controller Board) to your computer using a USB cable.
