@@ -29,10 +29,10 @@ The following is the convention used for numbering positions. Refer to it throug
 ### 1. LEDs
 
 #### Positions
-- **Position 1:** Red LED on pin 5, Green LED on pin 3, Blue LED on pin 4
-- **Position 2:** Red LED on pin 2, Green LED on pin 6, Blue LED on pin 7
-- **Position 3:** Red LED on pin 11, Green LED on pin 9, Blue LED on pin 10
-- **Position 4:** Red LED on pin 8, Green LED on pin 12, Blue LED on pin 13
+- **Position 1:** Red LED on pin 5, Green LED on pin 6, Blue LED on pin 7
+- **Position 2:** Red LED on pin 2, Green LED on pin 3, Blue LED on pin 4
+- **Position 3:** Red LED on pin 11, Green LED on pin 12, Blue LED on pin 13
+- **Position 4:** Red LED on pin 8, Green LED on pin 9, Blue LED on pin 10
 
 #### Steps
 1. Place the LEDs on the breadboard.
@@ -50,7 +50,7 @@ The following is the convention used for numbering positions. Refer to it throug
 #### Steps
 1. Place the push buttons on the breadboard.
 2. Connect one leg of each button to a separate analog pin on Arduino as listed above.
-4. Connect the other leg of each button directly to GND.
+3. Connect the other leg of each button directly to GND.
 
 ### 3. Buzzer
 
