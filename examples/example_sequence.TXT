@@ -1,0 +1,17 @@
+Level 1:
+Position 2, Color RED
+
+Level 2:
+Position 2, Color RED
+Position 3, Color GREEN
+
+Level 3:
+Position 2, Color RED
+Position 3, Color GREEN
+Position 3, Color BLUE
+
+Level 4:
+Position 2, Color RED
+Position 3, Color GREEN
+Position 3, Color BLUE
+Position 1, Color RED
