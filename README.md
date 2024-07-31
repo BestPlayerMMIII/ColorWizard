@@ -6,7 +6,7 @@ ColorWizard is an interactive memory game, with a colorful twist, built using Ar
 
 Watch the demo video of ColorWizard on YouTube:
 
-[![ColorWizard Demo](images/view_above.jpg)](https://www.youtube.com/watch?v=EEwhJd93c-o)
+[![ColorWizard Demo](https://img.youtube.com/vi/EEwhJd93c-o/0.jpg)](https://www.youtube.com/watch?v=EEwhJd93c-o)
 
 ## Features
 - Four positions with three color options (Red, Green, Blue).
@@ -34,7 +34,7 @@ Refer to the [setup guide](docs/setup_guide.md) for detailed instructions on wir
 ## Installation
 1. Download or clone this repository.
     ```bash
-    git clone https://github.com/yourusername/ColorWizard.git
+    git clone https://github.com/BestPlayerMMIII/ColorWizard.git
     ```
 2. Open `ColorWizard.ino` in the Arduino IDE.
 3. Upload the code to your Arduino Uno.
