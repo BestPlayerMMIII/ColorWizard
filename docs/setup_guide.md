@@ -63,7 +63,7 @@ The following is the convention used for numbering positions. Refer to it throug
     ```bash
     git clone https://github.com/BestPlayerMMIII/ColorWizard.git
     ```
-2. Open `ColorWizard.ino` in the Arduino IDE.
+2. Open `src/ColorWizard/ColorWizard.ino` in the Arduino IDE.
 3. Connect your Arduino Uno (or Elegoo MEGA Controller Board) to your computer using a USB cable.
 4. Select the correct board and port in the Arduino IDE:
     - **Board:** Arduino Uno (or Arduino Mega / Mega 2560)
